@@ -7,8 +7,8 @@ import io
 import base64
 import os
 from PIL import Image
-import poppler-utils
-import libpoppler-dev
+#import poppler-utils
+#import libpoppler-dev
 import pdf2image
 from pdf2image import convert_from_path, convert_from_bytes
 from pdf2image.exceptions import (
